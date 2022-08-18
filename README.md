@@ -1,4 +1,4 @@
-# cp-problem-editorials
+# codeforces-submissions
 
 Starting from 30th July
 
